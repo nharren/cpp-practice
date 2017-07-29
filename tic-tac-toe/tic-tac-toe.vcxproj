@@ -20,9 +20,9 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{CA6D551A-5C2C-4CC9-A8D7-3B9EC33C000D}</ProjectGuid>
+    <ProjectGuid>{31A6C65F-0B52-4A58-A852-61C06E8B8C20}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>cpppractice</RootNamespace>
+    <RootNamespace>tictactoe</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.15063.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
