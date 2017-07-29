@@ -2,6 +2,11 @@
 
 using namespace std;
 
+char GetChar(int generator, char base, int range)
+{
+	return base + generator % range;
+}
+
 void OutputRandomCharacters(char row[80], int j)
 {
 	int i = 0;
@@ -17,11 +22,6 @@ void OutputRandomCharacters(char row[80], int j)
 
 		++i;
 	}
-}
-
-char GetChar(int generator, char base, int range)
-{
-	return base + generator % range;
 }
 
 void Delay()
