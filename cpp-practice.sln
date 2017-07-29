@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.16
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cpp-practice", "cpp-practice\cpp-practice.vcxproj", "{CA6D551A-5C2C-4CC9-A8D7-3B9EC33C000D}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tic-tac-toe", "tic-tac-toe\tic-tac-toe.vcxproj", "{31A6C65F-0B52-4A58-A852-61C06E8B8C20}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +13,14 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{CA6D551A-5C2C-4CC9-A8D7-3B9EC33C000D}.Debug|x64.ActiveCfg = Debug|x64
-		{CA6D551A-5C2C-4CC9-A8D7-3B9EC33C000D}.Debug|x64.Build.0 = Debug|x64
-		{CA6D551A-5C2C-4CC9-A8D7-3B9EC33C000D}.Debug|x86.ActiveCfg = Debug|Win32
-		{CA6D551A-5C2C-4CC9-A8D7-3B9EC33C000D}.Debug|x86.Build.0 = Debug|Win32
-		{CA6D551A-5C2C-4CC9-A8D7-3B9EC33C000D}.Release|x64.ActiveCfg = Release|x64
-		{CA6D551A-5C2C-4CC9-A8D7-3B9EC33C000D}.Release|x64.Build.0 = Release|x64
-		{CA6D551A-5C2C-4CC9-A8D7-3B9EC33C000D}.Release|x86.ActiveCfg = Release|Win32
-		{CA6D551A-5C2C-4CC9-A8D7-3B9EC33C000D}.Release|x86.Build.0 = Release|Win32
+		{31A6C65F-0B52-4A58-A852-61C06E8B8C20}.Debug|x64.ActiveCfg = Debug|x64
+		{31A6C65F-0B52-4A58-A852-61C06E8B8C20}.Debug|x64.Build.0 = Debug|x64
+		{31A6C65F-0B52-4A58-A852-61C06E8B8C20}.Debug|x86.ActiveCfg = Debug|Win32
+		{31A6C65F-0B52-4A58-A852-61C06E8B8C20}.Debug|x86.Build.0 = Debug|Win32
+		{31A6C65F-0B52-4A58-A852-61C06E8B8C20}.Release|x64.ActiveCfg = Release|x64
+		{31A6C65F-0B52-4A58-A852-61C06E8B8C20}.Release|x64.Build.0 = Release|x64
+		{31A6C65F-0B52-4A58-A852-61C06E8B8C20}.Release|x86.ActiveCfg = Release|Win32
+		{31A6C65F-0B52-4A58-A852-61C06E8B8C20}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
